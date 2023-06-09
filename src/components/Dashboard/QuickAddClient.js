@@ -80,7 +80,7 @@ function QuickAddClient({ editForm }) {
       return;
     }
 
-    toast.success("Wow so easy to Update!", {
+    toast .success("Product added", {
       position: "bottom-center",
       autoClose: 2000,
     });

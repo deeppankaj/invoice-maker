@@ -49,7 +49,7 @@ function ProductEditModal(props) {
       return;
     }
 
-    toast.success("Wow Successfully Update Product!", {
+    toast .success("Successfully Update Product!", {
       position: "bottom-center",
       autoClose: 2000,
     });

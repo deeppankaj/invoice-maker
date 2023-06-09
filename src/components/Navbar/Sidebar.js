@@ -144,7 +144,7 @@ function Sidebar() {
 
         <hr />
 
-        <div className="my-4">
+        {/* <div className="my-4">
           <NavLink to={"about"}>
             <motion.span
               className="block px-4 py-2 rounded-md flex text-default-color"
@@ -168,7 +168,7 @@ function Sidebar() {
               About Me
             </motion.span>
           </NavLink>
-        </div>
+        </div> */}
 
         <hr />
 

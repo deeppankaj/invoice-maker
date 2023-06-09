@@ -53,7 +53,7 @@ function ClientEditModal(props) {
       return;
     }
 
-    toast.success("Wow Successfully Update Client!", {
+    toast .success("Successfully Update Client!", {
       position: "bottom-center",
       autoClose: 2000,
     });

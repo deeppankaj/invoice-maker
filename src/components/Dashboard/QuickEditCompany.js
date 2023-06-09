@@ -63,7 +63,7 @@ function QuickEditCompany({ isShowDetail = false, alreadySet = false }) {
       return;
     }
 
-    toast.success("Wow so easy to Update!", {
+    toast .success("so easy to Update!", {
       position: "bottom-center",
       autoClose: 2000,
     });
